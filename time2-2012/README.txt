@@ -8,6 +8,8 @@ TODO, MELHORAR:
 - suporte a numero de imagens diferente por pessoa na base de dados
 - modularizar mais com o uso de funcoes
 - validacao cruzada mais completa
+- fazer o formato da base de dados ser igual ao utilizado na base RecDev
+  http://github.com/rfabbri/recdev
 
 
 
